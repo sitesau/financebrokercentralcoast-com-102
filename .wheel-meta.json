@@ -1,0 +1,19 @@
+{
+  "wheel_id": 345,
+  "structure": "umbrella",
+  "slug": "financebrokercentralcoast-com-102",
+  "project": "mortgage-broker-central-coast-costs-12c468a81dfbee0a81f58a0e847",
+  "parent_t1_ref": "financebrokercentralcoast-com-151",
+  "node_role": "feeder",
+  "money_target": "financebrokercentralcoast.com.au",
+  "primary_kw": "mortgage broker central coast costs",
+  "intended_url": "https://sites-e470-2.web.app/mortgage-broker-central-coast-costs-12c468a81dfbee0a81f58a0e847/",
+  "writeback_nonce": "0e6959d9caff3c20",
+  "links": [
+    {
+      "target_url": "http://mortgage-broker-central-coast-672e95e6b1339357ab5f98cbd01daf64c.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "mortgage broker central coast",
+      "rel": "follow"
+    }
+  ]
+}
